@@ -1,0 +1,25 @@
+<div class="experiencia">
+    <div class="experiencia-cuerpo">
+        <h2>Experiencia</h2>
+        <div class="divider"></div>
+    </div>
+    <div class="container">
+        <ul class="item-list">
+            <li *ngFor="let experiencia of experienciaList">
+                <div class="card">
+                    <div class="card1_img">
+                    </div>
+                    <div class="card__titulo">
+                        <h3>{{experiencia.titulo}}</h3>
+                        <br>
+                        <p>{{experiencia.descripcion}}</p>
+                        <p>{{experiencia.anio}}</p>
+                    </div>
+                    <div class="experiencia__links">
+                        <a href="#"><i class="fas fa-globe"></i></a>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+  </div> 

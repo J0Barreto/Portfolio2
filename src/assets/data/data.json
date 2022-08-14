@@ -1,0 +1,28 @@
+{
+    "name": "José Barreto",
+    "imageperfil": "https://scontent.fcor10-3.fna.fbcdn.net/v/t1.18169-9/264485_2183757952963_1285713_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cdbe9c&_nc_eui2=AeEihFlzPcHn20COyCgaBuqoIHHDtueBTbIgccO254FNsh_9HrZQd2FgFuuDFf4JccI&_nc_ohc=LMH0iQFrC9AAX8lRFfl&tn=WhS7LaaeY1PdOkg4&_nc_ht=scontent.fcor10-3.fna&oh=00_AT97J1_zpFxR3p4UMs4uSVszVaOgAGYPJxzNRzI9U_SIZQ&oe=631E4687",
+    "text": "Tengo 32 años, soy de Córdoba- Argentina. Soy personal de la salud con gran afinidad al mundo IT.",
+    "acercade1": "Soy una persona a la cual le gusta ir actualizandose constantemente y explorar nuevos desafíos. Me considero muy responsable y dedicado.",
+    "acercade2": "Vivo con mi pareja hace más de 9 años, soy Paramédico y actualmente trabajo en ECCO S.A. como Coordinador de despacho de Control de Ausentismo.",
+    "imageacercade":"https://scontent.fcor10-3.fna.fbcdn.net/v/t1.18169-9/944539_10201128758520564_56745228_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=de6eea&_nc_eui2=AeEI1aEkvj2zh6dkleB653wQfELCAV3ECK98QsIBXcQIr3i-4Gojm6p7W1Hvs2L-VUk&_nc_ohc=SsRmoC4wLvAAX9L5bhp&_nc_ht=scontent.fcor10-3.fna&oh=00_AT9rI0l8P6OFCmDtusyL-KbL-SKfa6YmAftq_7pTeW4aLA&oe=631CFCDF",
+    "estudios": [{
+        "titulo": "YoProgramo",
+        "descripcion": "Primer etapa de Argentina Programa",
+        "anio": "2021"
+    }],
+    "experiencia": [{
+        "titulo": "YoProgramo",
+        "descripcion": "Primer etapa de Argentina Programa",
+        "anio": "2021"
+    }],
+    "contacto": [{
+        "mail": "barretojantonio@gmail.com",
+        "telefono": "+54 9 3513068946",
+        "direccion": "Illinos 2036. Barrio Santa Isabel 1. Córdoba Capital.",
+        "imagecontacto": "https://scontent.fcor10-3.fna.fbcdn.net/v/t1.18169-9/314331_2384793298721_142570_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=de6eea&_nc_eui2=AeE3F2qWse9DoKM8DsU04ABuN9aMxt3J-W031ozG3cn5bdWB1Qqb1lAijaOZq5SZzLE&_nc_ohc=me06n7CTUxkAX-pH9wv&_nc_ht=scontent.fcor10-3.fna&oh=00_AT_q8xR18BjwzxP4kTePoU2WASjzUBtVhnIiyiGBF3SRyA&oe=631D24BA"
+    }],
+    "facebook": "https://www.facebook.com/JosEABarreto/",
+    "twitter": "https://twitter.com/JAB1990",
+    "instagram": "https://www.instagram.com/chichobarreto/",
+    "linkedIn": "https://www.linkedin.com/in/joseabarreto/"
+}

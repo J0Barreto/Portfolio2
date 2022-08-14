@@ -1,0 +1,12 @@
+<div class="contacto">
+    <li *ngFor="let contacto of contactoList">
+    <img [src]="contacto.imagecontacto" alt="contactojose">
+    <div class="datos-contacto">
+        <div class="mail"><i class="fas fa-at"> {{contacto.mail}}</i></div>
+        <br>
+        <div class="telefono"><i class="fas fa-mobile"> {{contacto.telefono}}</i></div>
+        <br>
+        <div class="direccion"><i class="fas fa-street-view"> {{contacto.direccion}}</i></div>
+    </div>
+    </li>
+</div>

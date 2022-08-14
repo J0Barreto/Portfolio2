@@ -1,0 +1,24 @@
+<div class="estudios">
+    <div class="estudios-cuerpo">
+        <h2>Estudios</h2>
+        <div class="divider"></div>
+    </div>
+    <div class="container">
+        <ul class="item-list">
+            <li *ngFor="let estudios of estudiosList">
+                <div class="card">
+                    <div class="card_img">
+                    </div>
+                    <div class="card__titulo">
+                        <h3>{{estudios.titulo}}</h3>
+                        <p>{{estudios.descripcion}}</p>
+                        <p>{{estudios.anio}}</p>
+                    </div>
+                    <div class="estudios__links">
+                        <a href="#"><i class="fas fa-book"></i> </a>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+  </div> 
